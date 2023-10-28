@@ -53,7 +53,7 @@
 <div align="center">
   <h1>Contáctame</h1>
 
-  <a href="wa.me/525610996872"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="logo-wp"> </a>
+  <a href="https://wa.me/5610996872"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="logo-wp"> </a>
   <a href="https://www.facebook.com/jesus.220"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=Facebook&logoColor=white" alt="logo-facebook"> </a>
   <a href="https://www.instagram.com/yisus_craist_/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="logo-instagram"> </a>
   <a href="https://www.linkedin.com/in/jesusmartinezmartinez02/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="logo-linkedin"> </a>
